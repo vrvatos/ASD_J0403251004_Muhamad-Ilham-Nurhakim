@@ -1,0 +1,11 @@
+BRG001, Hot Wheels, 37
+BRG002, Hot Wheels Premium, 17
+BRG003, Pokemon Cards, 56
+BRG004, Blind Box, 20
+BRG005, Lego Technic, 5
+BRG006, AF Transformers, 9
+BRG007, Mini GT, 39
+BRG008, Gundam, 10
+BRG009, Tamiya, 7
+BRG010, UNO, 2
+BRG011, Yoyo, 10
